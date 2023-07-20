@@ -41,7 +41,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <title>Doctor Login Page</title>
     <style>
         body {
-            background-color: blue;
+            background-color: burlywood;
         }
     </style>
 </head>
