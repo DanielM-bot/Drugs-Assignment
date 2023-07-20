@@ -24,9 +24,8 @@ session_start();
         }
         ?>
     </div>
-<p>Welcome to Health Pharmacy. A place where you can find all the drugs you need
-    along with medical counselling with a click of a button. Duo Pharm is 
-    here to take care of all your needs.  
+<p>Welcome to Health Pharmacy. A place where you can find all the drugs and medical attention you require. Health Pharmacy is 
+    here to take care of you.  
 </p>
 </body>
 </html>
