@@ -26,7 +26,8 @@ session_start();
         }
         ?>
     </div>
-    <p>Welcome to Health Pharmacy. A place where you can find all the drugs and medical attention you require. Health Pharmacy is here for you.
+    <p>Welcome to Health Pharmacy. A place where you can find all the drugs and medical 
+        attention you require. Health Pharmacy is here for you.
     </p>
 </body>
 
